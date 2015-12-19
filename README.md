@@ -57,4 +57,4 @@
 - **formatter**: Custom function to format logs. (optional)
 - **level**: Level to log. (global settings will be applied if level is blank)
 
-[^1]: Integration settings on slack will be applied if iconEmoji is blank.
+[^1]: Integration settings on slack will be applied if it's blank.

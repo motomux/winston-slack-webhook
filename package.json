@@ -2,7 +2,7 @@
   "name": "winston-slack-webhook",
   "version": "0.1.0",
   "description": "winston slack webhook",
-  "main": ".lib/winston-slack-webhook",
+  "main": "lib/winston-slack-webhook",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/motomux/winston-slack-webhook.git"
