@@ -1,6 +1,6 @@
 {
   "name": "winston-slack-webhook",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "winston slack webhook",
   "main": "lib/winston-slack-webhook",
   "repository": {
